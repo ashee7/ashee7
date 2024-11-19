@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 👋 I'm Ashee <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align='center'> Hi there 👋 👋 I'm Ashee </h1>
 
 <!--
 **ashee7/ashee7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">An ML engineer and a grad student at Oregon State University</h3>
-<p align="center">
+<!--
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+	<p align="center">
 	<a href="https://github.com/ashee7">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;ML+Engineer;Data+Scientist;Graduate+Research+Assistant;Explorative+Thinker;Wandering+Spirit;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashee7&color=blue&style=flat" alt="ashee_mahajan" /> </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
