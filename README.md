@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">An ML engineer @ 4MINDS.AI and have a Masters degree with major in Artificial Intelligence</h3>
+<h3 align="center">ML Engineer at 4MINDS.AI with a Master’s degree in Artificial Intelligence</h3>
 <!--
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 	<p align="center">
