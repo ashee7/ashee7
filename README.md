@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">An ML engineer and a grad student at Oregon State University</h3>
+<h3 align="center">An ML engineer @ 4MINDS.AI and have a Masters degree with major in Artificial Intelligence</h3>
 <!--
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 	<p align="center">
@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
+- 👨‍💻 I’m currently working on cool AI projects with crazy capabilities of destroying the human world. 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ♻ Tech stacks change, adaptability doesn’t.
 
 ---
 
